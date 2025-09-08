@@ -26,7 +26,7 @@ sudo bash openvpn.sh --auto
 	```
 - Удалить клиента (например, client1):
 	```bash
-	sudo bash openvpn.sh --delclient client1
+	sudo bash openvpn.sh --revokeclient client1
 	```
 
 
