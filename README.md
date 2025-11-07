@@ -3,8 +3,6 @@
 ## VPS Хостинг
 
 - [AdminVPS](https://my.adminvps.ru/aff.php?aff=28722) (Промокод **GIT** — скидка 60%)
-- [AEZA](https://aeza.net/?ref=537145) — оплата хостинга за UST
-- [is*Hosting](https://ishosting.com/affiliate/NTAxNCM2) — если вам нужна определенная страна (36 стран)
 
 
 ## Маршруты для роутера Keenetic
