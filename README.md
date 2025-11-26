@@ -50,7 +50,7 @@ sudo bash openvpn.sh --revokeclient client1
 bash <(curl -Ls https://raw.githubusercontent.com/MHSanaei/3x-ui/refs/tags/v2.6.0/install.sh)
 ```
 
-### 3X-UI Pro с панелью REALITY
+### 3X-UI Pro с панелью REALITY Требуется домен + sub домен.
 
 🔧 **[Полная инструкция по установке 3X-UI Pro](https://vk.cc/cRG1KM)**
 
