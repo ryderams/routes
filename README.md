@@ -3,7 +3,7 @@
 ## VPS Хостинги
 
 - **[AdminVPS](https://vk.cc/cRBFB3)** — Промокод **GIT** — скидка 60%
-- **[TimeWeb](https://vk.cc/cRDfn5)**
+- **[TimeWeb](https://vk.cc/cRDfn5)** — Отличный VPS хостинг
 - **[Amnezia Premium](https://vk.cc/cRBFsO)** — Готовое решение, 20 стран
 
 ## Маршруты для роутера Keenetic
