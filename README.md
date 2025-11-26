@@ -1,4 +1,4 @@
-# EasyNetwork
+# EasyNetwork [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@EasyNetworkVPN) [![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram&logoColor=white)](https://t.me/easynetpro)
 
 ## VPS Хостинги
 
@@ -62,3 +62,5 @@ bash <(curl -Ls https://raw.githubusercontent.com/MHSanaei/3x-ui/refs/tags/v2.6.
 ---
 
 **Все скрипты взяты из официальных GitHub репозиториев.**
+
+
