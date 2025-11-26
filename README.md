@@ -1,43 +1,64 @@
-# Keenetic, OpenVPN, VLESS, WG
+# EasyNetwork
 
-## VPS Хостинг
+## VPS Хостинги
 
-- [AdminVPS](https://my.adminvps.ru/aff.php?aff=28722) (Промокод **GIT** — скидка 60%)
-
+- **[AdminVPS](https://vk.cc/cRBFB3)** — Промокод **GIT** — скидка 60%
+- **[TimeWeb](https://vk.cc/cRDfn5)**
+- **[Amnezia Premium](https://vk.cc/cRBFsO)** — Готовое решение, 20 стран
 
 ## Маршруты для роутера Keenetic
 
-[Глобальные маршруты](https://github.com/RockBlack-VPN/ip-address/tree/main/Global) | [YouTube (если тормозит)](https://github.com/RockBlack-VPN/ip-address/tree/main/Global/Youtube) | [Для российских сервисов](https://github.com/RockBlack-VPN/ip-address/tree/main/RU-RU)
+| Тип | Ссылка |
+|-----|--------|
+| **Глобальные маршруты** | [GitHub](https://github.com/RockBlack-VPN/ip-address/tree/main/Global) |
+| **YouTube** (если тормозит) | [GitHub](https://github.com/RockBlack-VPN/ip-address/tree/main/Global/Youtube) |
+| **Российские сервисы** | [GitHub](https://github.com/RockBlack-VPN/ip-address/tree/main/RU-RU) |
+| **Доменные маршруты** | [GitHub](https://github.com/v2fly/domain-list-community/tree/master/data) |
 
+---
 
+## OpenVPN
 
-### OpenVPN
+📖 **[Полная инструкция по OpenVPN](https://github.com/ryderams/OpenVPN-ru)**
+
+### Установка
+
 ```bash
 wget -O openvpn.sh https://get.vpnsetup.net/ovpn
 sudo bash openvpn.sh --auto
 ```
 
-**Другие ключи для OpenVPN:**
-- Создать нового клиента (например, client1):
-	```bash
-	sudo bash openvpn.sh --addclient client1
-	```
-- Удалить клиента (например, client1):
-	```bash
-	sudo bash openvpn.sh --revokeclient client1
-	```
+### Управление клиентами
 
+**Создать нового клиента** (например, `client1`):
+```bash
+sudo bash openvpn.sh --addclient client1
+```
 
-### 3X-UI
+**Удалить клиента** (например, `client1`):
+```bash
+sudo bash openvpn.sh --revokeclient client1
+```
+
+---
+
+## 3X-UI
+
+### Базовая установка
+
 ```bash
 bash <(curl -Ls https://raw.githubusercontent.com/MHSanaei/3x-ui/refs/tags/v2.6.0/install.sh)
 ```
 
-> В панели 3X-UI можно создавать клиентов WireGuard (WG) через удобный веб-интерфейс.
+### 3X-UI Pro с панелью REALITY
 
-#### 3X-UI pro с панелью REALITY и входящими на 443 порту
+🔧 **[Полная инструкция по установке 3X-UI Pro](https://vk.cc/cRG1KM)**
 
-[Инструкция по установке 3X-UI pro (панель REALITY, inbounds на 443)](https://scarce-hole-1e2.notion.site/3X-UI-pro-with-REALITY-panel-and-inbounds-3X-UI-pro-with-REALITY-panel-and-inbounds-on-port-443-on-10d1666462e48085be0fee4c136ce417)
+> Этот скрипт устанавливает **3X-UI Pro** с поддержкой:
+> - 📡 Панель REALITY
+> - 🌐 WebSocket
+> - 🔌 Входящие соединения (inbounds) на порту 443
 
-> Этот скрипт устанавливает 3X-UI pro с поддержкой панели REALITY и входящими соединениями (inbounds) на порту 443. Подходит для продвинутой настройки и обхода блокировок.
+---
 
+**Все скрипты взяты из официальных GitHub репозиториев.**
