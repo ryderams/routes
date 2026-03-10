@@ -52,7 +52,10 @@ bash <(curl -Ls https://raw.githubusercontent.com/MHSanaei/3x-ui/refs/tags/v2.6.
 
 ### 3X-UI Pro с панелью REALITY Требуется домен + sub домен.
 
-🔧 **[Полная инструкция по установке 3X-UI Pro](https://vk.cc/cRG1KM)**
+```bash
+sudo su -c "bash <(wget -qO- https://raw.githubusercontent.com/mozaroc/x-ui-pro/refs/heads/master/x-ui-pro.sh) -install yes"
+```
+🔧 **[Полная инструкция по установке 3X-UI Pro(сайт может быть ограничен в вашем регионе)](https://vk.cc/cRG1KM)**
 
 > Этот скрипт устанавливает **3X-UI Pro** с поддержкой:
 > - 📡 Панель REALITY
