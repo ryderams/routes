@@ -44,13 +44,13 @@ sudo bash openvpn.sh --revokeclient client1
 
 ## 3X-UI
 
-### Базовая установка
+### 1. Базовый скрипт
 
 ```bash
 bash <(curl -Ls https://raw.githubusercontent.com/MHSanaei/3x-ui/refs/tags/v2.6.0/install.sh)
 ```
 
-### 3X-UI Pro с панелью REALITY Требуется домен + sub домен.
+### 2. 3X-UI Pro с панелью REALITY Требуется домен + sub домен.
 
 ```bash
 sudo su -c "bash <(wget -qO- https://raw.githubusercontent.com/mozaroc/x-ui-pro/refs/heads/master/x-ui-pro.sh) -install yes"
