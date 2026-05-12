@@ -1,3 +1,35 @@
+
+<div align="right">
+  <details>
+    <summary >🌐 Language</summary>
+    <div>
+      <div align="center">
+        <a href="https://openaitx.github.io/view.html?user=ryderams&project=routes&lang=en">English</a>
+        | <a href="https://openaitx.github.io/view.html?user=ryderams&project=routes&lang=zh-CN">简体中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=ryderams&project=routes&lang=zh-TW">繁體中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=ryderams&project=routes&lang=ja">日本語</a>
+        | <a href="https://openaitx.github.io/view.html?user=ryderams&project=routes&lang=ko">한국어</a>
+        | <a href="https://openaitx.github.io/view.html?user=ryderams&project=routes&lang=hi">हिन्दी</a>
+        | <a href="https://openaitx.github.io/view.html?user=ryderams&project=routes&lang=th">ไทย</a>
+        | <a href="https://openaitx.github.io/view.html?user=ryderams&project=routes&lang=fr">Français</a>
+        | <a href="https://openaitx.github.io/view.html?user=ryderams&project=routes&lang=de">Deutsch</a>
+        | <a href="https://openaitx.github.io/view.html?user=ryderams&project=routes&lang=es">Español</a>
+        | <a href="https://openaitx.github.io/view.html?user=ryderams&project=routes&lang=it">Italiano</a>
+        | <a href="https://openaitx.github.io/view.html?user=ryderams&project=routes&lang=ru">Русский</a>
+        | <a href="https://openaitx.github.io/view.html?user=ryderams&project=routes&lang=pt">Português</a>
+        | <a href="https://openaitx.github.io/view.html?user=ryderams&project=routes&lang=nl">Nederlands</a>
+        | <a href="https://openaitx.github.io/view.html?user=ryderams&project=routes&lang=pl">Polski</a>
+        | <a href="https://openaitx.github.io/view.html?user=ryderams&project=routes&lang=ar">العربية</a>
+        | <a href="https://openaitx.github.io/view.html?user=ryderams&project=routes&lang=fa">فارسی</a>
+        | <a href="https://openaitx.github.io/view.html?user=ryderams&project=routes&lang=tr">Türkçe</a>
+        | <a href="https://openaitx.github.io/view.html?user=ryderams&project=routes&lang=vi">Tiếng Việt</a>
+        | <a href="https://openaitx.github.io/view.html?user=ryderams&project=routes&lang=id">Bahasa Indonesia</a>
+        | <a href="https://openaitx.github.io/view.html?user=ryderams&project=routes&lang=as">অসমীয়া</
+      </div>
+    </div>
+  </details>
+</div>
+
 <!-- # EasyNetwork [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@EasyNetworkVPN) [![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram&logoColor=white)](https://t.me/easynetpro) -->
 
 ## VPS Хостинги
