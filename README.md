@@ -1,11 +1,5 @@
 <!-- # EasyNetwork [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@EasyNetworkVPN) [![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram&logoColor=white)](https://t.me/easynetpro) -->
 
-## VPS Хостинги
-
-- **[AdminVPS](https://vk.cc/cRBFB3)** — Промокод **GIT** — скидка 60%
-- **[TimeWeb](https://vk.cc/cRDfn5)** — Отличный VPS хостинг
-- **[Amnezia Premium](https://vk.cc/cRBFsO)** — Готовое решение, 20 стран по цене VPS
-
 ## Маршруты для роутера Keenetic
 
 | Тип | Ссылка |
